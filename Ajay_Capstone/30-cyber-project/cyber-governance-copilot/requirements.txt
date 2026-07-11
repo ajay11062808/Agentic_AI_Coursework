@@ -1,0 +1,15 @@
+streamlit
+
+groq
+
+openai
+
+pinecone
+
+python-dotenv
+
+langchain
+langchain-core
+
+pydantic
+langgraph
